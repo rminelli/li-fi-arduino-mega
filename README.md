@@ -1,5 +1,5 @@
 # li-fi-arduino-mega
-#Transmisióon de dados por luz visible
+# Transmisióon de dados por luz visible
 ## Propósito
 En este trabajo pretendo aplicar el concepto de transmisión de dados por luz
 visible y ser capaz de transmitir informacióon con elementos de iluminación convencionales
