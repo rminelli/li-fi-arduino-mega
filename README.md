@@ -16,9 +16,9 @@ finales.
 ## Materiales Empleados
 - Arduino Mega 2560 { Cantidad: 1
 - Lector de Tarjetas Micro SD Modulo de Interfaz SPI { Cantidad: 1
-- LM386 Audio Amplicador { Cantidad: 1
+- LM386 Audio Amplificador { Cantidad: 1
 - Led blanco 8000K { Cantidad : 8
-- Potenciometro 10K Ohmios { Cantidad: 1
+- Potenciómetro 10K Ohmios { Cantidad: 1
 - Condensador 10pF { Cantidad: 2
 - Condensador 0.05pF { Cantidad: 1
 - Condensador 250pF { Cantidad: 1
